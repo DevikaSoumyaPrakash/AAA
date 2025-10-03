@@ -1,11 +1,4 @@
 // usagi_shopping_list.c
-// Interactive shopping list builder "Usagi" in C
-// Features:
-// - Add items interactively (Usagi asks: "What do you want to add?")
-// - After each add, Usagi asks: "Anything else? (y/n)"
-// - View, remove, save, load, and quit commands
-// - Uses a dynamically resizing array to store items
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
